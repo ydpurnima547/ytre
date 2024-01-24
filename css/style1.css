@@ -1,0 +1,25 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Commissioner&family=Roboto&display=swap');
+*{
+    margin:0px;
+    padding:0px;
+    font-family: 'Commissioner', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.one{
+    background-color:#16A085;
+    height:25px;
+}
+.tp1 .tp2 li{
+    color: #F4D03F;
+}
+.tp1 li{
+    padding:0px 4px;
+    color: #F4D03F;
+  }
+  .tp2{
+    float: left;
+  }
+  .tp2 li{
+    padding:0px 1px;
+  }
